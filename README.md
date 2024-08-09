@@ -28,6 +28,7 @@ The **Digital Clock** project is a simple and stylish web-based digital clock ap
 - Customizable clock face and colors
 - Supports 12-hour and 24-hour time formats
 - Link -https://khaledhasanmilu.github.io/Digital-Clock-V2/
+- Feel free to visit my first work -https://khaledhasanmilu.github.io/Digital-Clock-Project/
 
 ### Technologies Used
 
@@ -59,7 +60,8 @@ To set up the Digital Clock project locally, follow these steps:
 
 ## Other Projects
 
-- [Digital Clock](https://khaledhasanmilu.github.io/Digital-Clock-V2/)
+- [Digital Clock 2](https://khaledhasanmilu.github.io/Digital-Clock-V2/)
+- [digital Clock 1](https://khaledhasanmilu.github.io/Digital-Clock-Project/)
 - [Additional Projects](link-to-additional-projects)
 
 ## Technologies Used
