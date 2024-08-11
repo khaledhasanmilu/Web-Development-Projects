@@ -33,8 +33,9 @@ The **Digital Clock** project is a simple and stylish web-based digital clock ap
 
 ## Multiplication App
 The **Multiplication App** is simple multiply app which genarate 2 number randomly for multiply.
--**Demo**
-  <br><br><img src ="ssimage.png"/>
+
+## Demo
+  <br><br><img src ="ssimage.png" width="500" height ="600"/>
   <br/>
 
 ### Live Link 
