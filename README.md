@@ -19,10 +19,12 @@ Welcome to the Web Development Project repository! This repository contains vari
 This repository showcases a collection of web development projects. Each project is designed to demonstrate various web technologies and best practices.
 
 ## Digital Clock 1 and 2
-## Demo 1 and 2
-  <br><br><img src ="ssimage.png"/>
+## Demo Clock 1 
+  <br><br><img src ="ss.png"/>
   <br/>
-
+## Demo Clock 2
+  <br><br><img src ="img.png"/>
+  <br/>
 The **Digital Clock** project is a simple and stylish web-based digital clock application. It displays the current time with a modern design and supports customization.
 
 ### Features
