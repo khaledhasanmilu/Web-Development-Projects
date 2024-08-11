@@ -6,7 +6,8 @@ Welcome to the Web Development Project repository! This repository contains vari
 
 - [About](#about)
 - [Digital Clock](#digital-clock)
-- [Other Projects-Coming](#other-projects)
+- [Multiplication App](#multiplication-app)
+- [Other Projects](#other-projects)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
