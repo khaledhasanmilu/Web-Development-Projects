@@ -17,7 +17,7 @@ Welcome to the Web Development Project repository! This repository contains vari
 
 This repository showcases a collection of web development projects. Each project is designed to demonstrate various web technologies and best practices.
 
-## Digital Clock
+## Digital Clock 1 and 2
 
 The **Digital Clock** project is a simple and stylish web-based digital clock application. It displays the current time with a modern design and supports customization.
 
@@ -29,6 +29,10 @@ The **Digital Clock** project is a simple and stylish web-based digital clock ap
 - Supports 12-hour and 24-hour time formats
 - Link -https://khaledhasanmilu.github.io/Digital-Clock-V2/
 - Feel free to visit my first work -https://khaledhasanmilu.github.io/Digital-Clock-Project/
+
+## Multiplication App
+The **Multiplication App** is simple multiply app which genarate 2 number randomly for multiply.
+ ###Live Link - https://khaledhasanmilu.github.io/Multiplication-App/
 
 ### Technologies Used
 
@@ -62,6 +66,7 @@ To set up the Digital Clock project locally, follow these steps:
 
 - [Digital Clock 2](https://khaledhasanmilu.github.io/Digital-Clock-V2/)
 - [digital Clock 1](https://khaledhasanmilu.github.io/Digital-Clock-Project/)
+- [Multiplication App](https://khaledhasanmilu.github.io/Multiplication-App/)
 - [Additional Projects](link-to-additional-projects)
 
 ## Technologies Used
