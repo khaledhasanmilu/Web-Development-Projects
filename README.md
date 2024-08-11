@@ -20,9 +20,11 @@ This repository showcases a collection of web development projects. Each project
 
 ## Digital Clock 1 and 2
 ## Demo Clock 1 
+  -Link Here- https://khaledhasanmilu.github.io/Digital-Clock-Project/
   <br><br><img src ="ss.png"/>
   <br/>
 ## Demo Clock 2
+  -Link Here- https://khaledhasanmilu.github.io/Digital-Clock-V2/
   <br><br><img src ="img.png"/>
   <br/>
 The **Digital Clock** project is a simple and stylish web-based digital clock application. It displays the current time with a modern design and supports customization.
