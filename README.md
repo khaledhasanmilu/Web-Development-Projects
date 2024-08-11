@@ -74,7 +74,7 @@ To set up the Digital Clock project locally, follow these steps:
 
 ## Technologies Used
 
-- **HTML**: For the structure of all projects
+- **HTML**: For the structure of all projects 
 - **CSS**: For styling across projects
 - **JavaScript**: For interactivity
 - [Other technologies and tools relevant to your projects]
